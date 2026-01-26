@@ -1,4 +1,4 @@
-# Learn AI
+# Learn AI4PhysSci
 Tracking progress of learning AI
 
 ## Jan - Mar (Term Time): 
